@@ -2,17 +2,17 @@
 Some POST code for materials
 
 # CryCal version 1.0
-**Function** 
+**Function:** 
           Calculate the angle and distance in crystal (Code in MATLAB)
           
-**Usage**
+**Usage:**
       Provide a GUI and help file for use(code comments in chinese)
       
 # StrainStress-Sep version 1.0
-**Function**
+**Function:**
           Seperate the strain stress data(in two columns) into multi columns(Code in MATLAB)
           
-**Usage**
+**Usage:**
           See in the code(code comments in chinese)
       
 # Author information
