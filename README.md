@@ -1,8 +1,7 @@
 # MaterialPOST
 Some POST code for materials
 
-###############CryCal##############
-version 1.0
+# CryCal version 1.0
 Function: Calculate the angle and distance in crystal
           (Code in MATLAB)
 Usage:
