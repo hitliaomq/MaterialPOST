@@ -828,7 +828,7 @@ LangType = handles.LangType;
 if LangType == 1  %Chinese
     FileName = '晶向族间的夹角';
 else
-    FileName = 'Angle Between Crystal Plane';
+    FileName = 'Angle Between Crystal Orientation';
 end
 [a, b, c, ~, ~, ~] = abcabc(handles);
 [u1, v1, w1, u2, v2, w2]= hklhkl(handles);
