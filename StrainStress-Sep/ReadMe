@@ -1,0 +1,17 @@
+% 1.Function
+%     Seperate data created in tensile experiment(the origin data was written in a sheet, it's too long)
+% 2.Usage
+%     Copy the function to your work direction
+%     Then type strainstress_sep('The full path of you data file including the ext')
+% 3.Require for the data
+%     Two columns and the ext should be .xlsx
+%     Different strain-stress curve was seperated by Non-numeric data
+% Input：
+%   filename：the full path of your data(the ext should be .xlsx)
+%     
+
+%% version 2.0
+%   1. add a name and unit for every column
+%   2. the code was optimazed for speed
+%% version 1.0
+%   It works. However, it will manipulate the EXCEL for many times, as a result, it is slowly.
