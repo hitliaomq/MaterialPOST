@@ -2,6 +2,7 @@
 %     Seperate data created in tensile experiment(the origin data was written in a sheet, it's too long)
 % 2.Usage
 %     Copy the function to your work direction
+%     Specify the column number of strain and stress
 %     Then type strainstress_sep('The full path of you data file including the ext')
 % 3.Require for the data
 %     Two columns and the ext should be .xlsx
