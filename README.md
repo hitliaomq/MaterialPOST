@@ -19,7 +19,7 @@ Some POST code for materials science
 
 **Usage:**
           See in the code(code comments in chinese)
-      
+ <img src="https://github.com/hitliaomq/MaterialPOST/blob/master/StrainStress-Sep/Image/StrainStressSep.png" width="487" height="221"></img>
 # Author Information
 *Liao Mingqing(廖名情)* 
 
