@@ -1,6 +1,6 @@
 # CCE
 
-This is a script to solve the [CCE][2-4] (Constrained Carbon paraEquilibrium) model[2] in Q&P (Quenching and Partitioning)[1].
+This is a script to solve the CCE(Constrained Carbon paraEquilibrium) model[2] in Q&P (Quenching and Partitioning)[1].
 
 **Note**: If you used the script, please ref [3].
 
