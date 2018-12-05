@@ -3,7 +3,7 @@ function output = Birch_Murnaghan_fitting(s)
 % s parameter for a-E fitting, s=='a'
 clc
 close
-name = 'NbTiVZr-sqs.xlsx';
+name = 'TEST.xlsx';
 data = xlsread(name);
 x = data(:,1);
 if (s == 'l')
@@ -19,7 +19,9 @@ myfittype = fittype('a + b*x^(-1/3) + c*x^(-2/3) + d*x^(-1)',...
 adjstR = gof.adjrsquare;  
 fit_cv = coeffvalues(myfit);  
 y_fit = feval(myfit,x); 
-plot(x, y, x, y_fit);
+scatter(x, y);
+hold on
+plot(x, y_fit);
 n = 1000;
 xlin = linspace(x_min, x_max, n);
 ylin = feval(myfit, xlin);

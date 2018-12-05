@@ -36,15 +36,27 @@ Some POST code for materials science
 
 <img src="https://github.com/hitliaomq/MaterialPOST/blob/master/StrainStress-Sep/Image/StrainStressSep.png" width="487" height="221"></img>
 
-# TernaryPlot V1.1
+## TernaryPlot *V1.1*
 
 **Function**: Plot Ternary figure for ternary system
 
 **Usage:**
 
-​        See in the code
+​        See in the code.
 
-<img src="https://github.com/hitliaomq/MaterialPOST/blob/master//TernaryPlot/TEST/TEST.png" width="280" height="210"></img>
+<img src="https://github.com/hitliaomq/MaterialPOST/blob/master/TernaryPlot/TEST/TEST.png" width="280" height="210"></img>
+
+## BMFitting
+
+**Function:**
+
+Fitting the equation of state(EOS) using 3rd Birch-Murnaghan equation.
+
+**Usage:**
+
+<img src="https://github.com/hitliaomq/MaterialPOST/blob/master/BMFitting/TEST.png" width="280" height="210"></img>
+
+
 
 # Author Information
 *Liao Mingqing(廖名情)* 

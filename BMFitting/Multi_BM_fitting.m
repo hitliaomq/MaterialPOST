@@ -2,7 +2,7 @@ function output = Multi_BM_fitting()
 % clc
 close
 s = 'v';  %v or a, v for volume, a for lattice
-name = 'VCA-NbTiVZr-BCC';
+name = 'TestForMulti';
 xlsname = [name '.xlsx'];
 elename = {'Nb','Ti','V','Zr'};
 n_sheet = length(elename);
