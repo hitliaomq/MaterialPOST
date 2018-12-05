@@ -79,7 +79,7 @@ end
 
 axis equal
 colormap('jet');
-if ~exist(Caxis, 'var')
+if ~exist('Caxis', 'var')
     cmin = min(min(Z0));
     cmax = max(max(Z0));
 else
