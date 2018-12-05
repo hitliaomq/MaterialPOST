@@ -54,7 +54,7 @@ Fitting the equation of state(EOS) using 3rd Birch-Murnaghan equation.
 
 **Usage:**
 
-<img src="https://github.com/hitliaomq/MaterialPOST/blob/master/BMFitting/TEST.png" width="280" height="210"></img>
+<img src="https://github.com/hitliaomq/MaterialPOST/blob/master/BMFitting/TEST.PNG" width="280" height="210"></img>
 
 
 
