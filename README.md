@@ -44,7 +44,7 @@ Some POST code for materials science
 
 ​        See in the code
 
-<img src="https://github.com/hitliaomq/MaterialPOST/blob/master//TernaryPlot/TEST/TEST.png"></img>
+<img src="https://github.com/hitliaomq/MaterialPOST/blob/master//TernaryPlot/TEST/TEST.png" width="280" height="210"></img>
 
 # Author Information
 *Liao Mingqing(廖名情)* 
