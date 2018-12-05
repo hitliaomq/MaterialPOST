@@ -16,7 +16,11 @@ Some POST code for materials science
 
 ### Convergence
 
+###  Elastic *v2.0*
 
+This script can be used in *Materials Studio* to calculate the 2nd or 3rd elastic constants by using CASTEP.
+
+​      **NOTE:** This script is under develop now. And it only support the cubic crystal now. If you want to implement this script for other crystal, you need to add the deform mode and deduce the coefficients by yourself.
 
 ## CryCal *V1.0*
 
