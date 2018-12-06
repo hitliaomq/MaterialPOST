@@ -6,4 +6,4 @@ This is a software to visualize polycrystalline modulus anisotropy in 3D.
 
 
 
-*Note: Currently, the source is not released for some personal reason, but it will come soon.(if you are interested in it, please send me a e-mail(liaomq1900127@163.com), I will send to you as soon as possible). 
+*Note: Currently, the source is not released for some personal reasons, but it will come soon.(if you are interested in it, please send me an e-mail(liaomq1900127@163.com), I will send to you as soon as possible). 
