@@ -48,7 +48,13 @@ This script can be used in *Materials Studio* to calculate the 2nd or 3rd elasti
 
 ​        See in the code.
 
-<img src="https://github.com/hitliaomq/MaterialPOST/blob/master/TernaryPlot/TEST/TEST.png" width="280" height="210"></img>
+<img src="https://github.com/hitliaomq/TernaryPlot/blob/master/TEST/TEST.png" width="280" height="210"></img>
+
+
+
+**NOTE**
+
+​		THE CODE WAS MOVED TO A NEW REPOSITORIES.  https://github.com/hitliaomq/TernaryPlot
 
 ## BMFitting
 

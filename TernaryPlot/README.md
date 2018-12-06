@@ -12,3 +12,8 @@ See the code comment.
 
 For test, just load the file *TEST.mat* , then type *TernaryPlot(X, Y, Z)*
 
+
+
+**NOTE**
+
+THE CODE WAS MOVED TO A NEW REPOSITORIES.  https://github.com/hitliaomq/TernaryPlot
