@@ -4,7 +4,7 @@ Some POST code for materials science
 
 ## ElasticPOST *V1.0*
 
-
+**NOTE:** This project has been moved to [here](https://github.com/hitliaomq/ElasticPOST)
 
 <img src="https://github.com/hitliaomq/MaterialPOST/blob/master/ElasticPOST/ScreenShot/ElasticPOST.png" width="306" height="208"></img>
 
